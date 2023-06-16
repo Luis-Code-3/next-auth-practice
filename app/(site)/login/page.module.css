@@ -1,0 +1,10 @@
+.signupForm {
+    margin-bottom: 2rem;
+}
+
+.gitButton {
+    border: none;
+    color: white;
+    background-color: rgb(106, 60, 135);
+    padding: 1rem;
+}
